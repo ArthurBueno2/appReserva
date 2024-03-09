@@ -65,7 +65,7 @@
                                 Quarto
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="#">Cadastro</a></li>
+                                <li><a class="dropdown-item" href="{{'/cadastro-quarto'}}">Cadastro</a></li>
                                 <li><a class="dropdown-item" href="#">Pesquisar</a></li>
                                 <li>
                                     <hr class="dropdown-divider">
@@ -80,7 +80,7 @@
                                 Reserva
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="#">Cadastro</a></li>
+                                <li><a class="dropdown-item" href="{{'/cadastro-reserva'}}">Cadastro</a></li>
                                 <li><a class="dropdown-item" href="#">Pesquisar</a></li>
                                 <li>
                                     <hr class="dropdown-divider">
